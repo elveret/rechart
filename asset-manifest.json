@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rechart/static/css/main.e6c13ad2.css",
+    "main.js": "/rechart/static/js/main.6ce4a233.js",
+    "index.html": "/rechart/index.html",
+    "main.e6c13ad2.css.map": "/rechart/static/css/main.e6c13ad2.css.map",
+    "main.6ce4a233.js.map": "/rechart/static/js/main.6ce4a233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ce4a233.js"
+  ]
+}
